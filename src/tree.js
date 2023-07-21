@@ -49,12 +49,6 @@ export class BinarySearchTree {
     }
 }
 
-const tree = new BinarySearchTree()
-tree.insert(10)
-tree.insert(5)
-tree.insert(15)
-tree.root
-
 export function createBinarySearchTree() {
     return new BinarySearchTree()
 }
