@@ -80,7 +80,7 @@ export function createGraph(E, V) {
 }
 
 /**
- *
+ * Dijkstra's algorithm
  * @param {number[][]} graph
  * @param {number} V
  * @param {number} src
