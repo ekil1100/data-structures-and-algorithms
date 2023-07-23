@@ -48,7 +48,3 @@ export class BinarySearchTree {
         }
     }
 }
-
-export function createBinarySearchTree() {
-    return new BinarySearchTree()
-}
