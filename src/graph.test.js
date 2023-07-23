@@ -40,7 +40,7 @@ test('toGraph', () => {
     )
 })
 
-test.only('dijkstra', () => {
+test('dijkstra', () => {
     const graph = [
         [
             [1, 4],
